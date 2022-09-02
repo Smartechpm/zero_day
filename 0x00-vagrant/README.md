@@ -1,0 +1,1 @@
+ output of uname command without option
